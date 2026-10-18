@@ -1,4 +1,4 @@
-C 语言本地判题器 v1.0
+ZJGSU Online Judeg System For Local v1.0
 ======================
 
 这是一个不需要安装 Python、也不需要安装 gcc 的 Windows 便携版 C 语言判题器。
