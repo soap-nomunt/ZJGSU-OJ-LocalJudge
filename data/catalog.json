@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 13:01:18",
+  "generated_at": "2026-10-18 14:58:10",
   "problems": {
     "1000": {
       "title": "A+B Problem",
@@ -774,7 +774,118 @@
       "generated_count": 4,
       "test_count": 5,
       "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1192": {
+      "title": "排序",
+      "cid": 5253,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [],
+      "statement": "statements/1192.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1882": {
+      "title": "两位整数立方的尾数（输入输出）[易]",
+      "cid": 5248,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574281
+      ],
+      "statement": "statements/1882.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1893": {
+      "title": "整数输入输出",
+      "cid": 5249,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1573997
+      ],
+      "statement": "statements/1893.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1904": {
+      "title": "数值对应的ASCII码字符-数据类型和表达式[易]",
+      "cid": 5248,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574300
+      ],
+      "statement": "statements/1904.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1934": {
+      "title": "判断答案-分支结构[易]",
+      "cid": 5248,
+      "pid": 6,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574309
+      ],
+      "statement": "statements/1934.txt",
+      "generated_count": 6,
+      "test_count": 7,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "2005": {
+      "title": "Armstrong数（综合）[易]",
+      "cid": 5249,
+      "pid": 6,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1579275,
+        1574071
+      ],
+      "statement": "statements/2005.txt",
+      "generated_count": 7,
+      "test_count": 8,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "2222": {
+      "title": "加减乘除（输入输出）",
+      "cid": 5249,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1573962
+      ],
+      "statement": "statements/2222.txt",
+      "generated_count": 8,
+      "test_count": 9,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
     }
   },
-  "seeded_at": "2026-10-18 13:02:21"
+  "seeded_at": "2026-10-18 14:58:22"
 }

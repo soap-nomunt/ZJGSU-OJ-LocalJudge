@@ -1,0 +1,14 @@
+{
+  "id": 1893,
+  "title": "整数输入输出",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1573997
+  ],
+  "generated_count": 5,
+  "test_count": 6,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2005,
+  "title": "Armstrong数（综合）[易]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1579275,
+    1574071
+  ],
+  "generated_count": 7,
+  "test_count": 8,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

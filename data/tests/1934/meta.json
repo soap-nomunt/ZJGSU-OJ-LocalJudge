@@ -1,0 +1,14 @@
+{
+  "id": 1934,
+  "title": "判断答案-分支结构[易]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1574309
+  ],
+  "generated_count": 6,
+  "test_count": 7,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

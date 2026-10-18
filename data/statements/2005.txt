@@ -1,0 +1,21 @@
+2005: Armstrong数（综合）[易]
+时间限制: 1 Sec    内存限制: 128 MB
+来源: ZJGSU OJ
+OJ 页面: http://10.21.11.101/JudgeOnline/problem.php?cid=5249&pid=6
+
+【题目描述】
+从小到大输出两个三位正整数m和n（100≤m≤n≤1000）之间的Armstrong数。Armstrong数，即其各位数字的立方和等于它本身的数。例如，153的各位数字的立方和是1*1*1+5*5*5+3*3*3 =153。如果m与n之间存在Armstrong数，则按照从小到大的次序输出所有的Armstrong数；如果m与n之间不存在Armstrong数，就输出No Armstrong numbers between m and n
+
+【输入】
+200 400
+
+【输出】
+Armstrong numbers between 200 and 400:
+
+370 371
+
+【样例输入】
+500 1000
+
+【样例输出】
+No Armstrong numbers between 500 and 1000
