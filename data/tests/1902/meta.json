@@ -1,0 +1,15 @@
+{
+  "id": 1902,
+  "title": "计算实领工资-输入输出[易]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1568578,
+    1567283
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+.eggs/
+*.spec
+
+# 构建与打包
+build/
+dist/
+toolchain/
+*.zip
+
+# 运行时和用户数据
+userdata/
+**/data/reference/
+**/data/progress.json
+logs/
+*.log
+selftest.txt
+crash.log
+config.local.json
+secrets.json
+.env
+.env.*
+
+# C 编译产物
+# 注意：不要忽略 *.out，data/tests 下的 .out 是期望输出
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.a
+*.lo
+*.la
+*.stackdump
+a.out
+*.dSYM/
+CMakeFiles/
+cmake-build-*/
+
+# IDE / 操作系统
+.vs/
+.idea/
+.vscode/*
+!.vscode/tasks.json
+*.user
+*.suo
+*.VC.db
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+.cache/

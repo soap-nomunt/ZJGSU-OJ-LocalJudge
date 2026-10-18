@@ -1,0 +1,15 @@
+{
+  "id": 1896,
+  "title": "大小写转换（输入输出）",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1568395,
+    1567126
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

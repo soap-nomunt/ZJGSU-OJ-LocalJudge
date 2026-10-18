@@ -1,0 +1,15 @@
+{
+  "id": 1927,
+  "title": "计算三角形的面积和周长（分支）[易]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1568851,
+    1567469
+  ],
+  "generated_count": 4,
+  "test_count": 5,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

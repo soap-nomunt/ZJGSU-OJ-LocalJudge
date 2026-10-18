@@ -1,0 +1,780 @@
+{
+  "generated_at": "2026-10-18 13:01:18",
+  "problems": {
+    "1000": {
+      "title": "A+B Problem",
+      "cid": 5234,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1579223,
+        1567506,
+        1567098
+      ],
+      "statement": "statements/1000.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1896": {
+      "title": "大小写转换（输入输出）",
+      "cid": 5234,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568395,
+        1567126
+      ],
+      "statement": "statements/1896.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1910": {
+      "title": "求两个整数的和与差（输入输出）[易]",
+      "cid": 5234,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568415,
+        1567132
+      ],
+      "statement": "statements/1910.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1912": {
+      "title": "华氏温度转换为摄氏温度（输入输出）[易]",
+      "cid": 5234,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568428,
+        1567139
+      ],
+      "statement": "statements/1912.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1931": {
+      "title": "大写字母判断-分支结构[易]",
+      "cid": 5234,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568451,
+        1567202
+      ],
+      "statement": "statements/1931.txt",
+      "generated_count": 2,
+      "test_count": 3,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1920": {
+      "title": "自来水费计算（分支）[易]",
+      "cid": 5234,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568506,
+        1567264
+      ],
+      "statement": "statements/1920.txt",
+      "generated_count": 6,
+      "test_count": 7,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1902": {
+      "title": "计算实领工资-输入输出[易]",
+      "cid": 5235,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568578,
+        1567283
+      ],
+      "statement": "statements/1902.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1917": {
+      "title": "计算存款的本息（数据类型）[易]",
+      "cid": 5235,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568738,
+        1567326
+      ],
+      "statement": "statements/1917.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1919": {
+      "title": "大写字母转换成小写字母（数据类型）[易]",
+      "cid": 5235,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568794,
+        1567338
+      ],
+      "statement": "statements/1919.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1944": {
+      "title": "实现复数的乘法运算－基本输入输出[中]",
+      "cid": 5235,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568827,
+        1567380
+      ],
+      "statement": "statements/1944.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1428": {
+      "title": "2000年秋浙江省计算机等级考试二级C 编程题(1)",
+      "cid": 5235,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568841,
+        1567417
+      ],
+      "statement": "statements/1428.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1927": {
+      "title": "计算三角形的面积和周长（分支）[易]",
+      "cid": 5235,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1568851,
+        1567469
+      ],
+      "statement": "statements/1927.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1892": {
+      "title": "3位整数数位和（分支）[中]",
+      "cid": 5250,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1573968,
+        1573945
+      ],
+      "statement": "statements/1892.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1976": {
+      "title": "闰年判断-分支结构[易]",
+      "cid": 5250,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1573969,
+        1573947
+      ],
+      "statement": "statements/1976.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "2300": {
+      "title": "成绩分段计数",
+      "cid": 5250,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1579196,
+        1573970,
+        1573953
+      ],
+      "statement": "statements/2300.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1933": {
+      "title": "计算a+aa+aaa+…之和－循环[易]",
+      "cid": 5250,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1579197,
+        1573971,
+        1573960
+      ],
+      "statement": "statements/1933.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1170": {
+      "title": "C语言考试练习题_三个整数",
+      "cid": 5251,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574255,
+        1574090
+      ],
+      "statement": "statements/1170.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1950": {
+      "title": "据年、月、日计算天数（分支）[难]",
+      "cid": 5251,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574260,
+        1574142
+      ],
+      "statement": "statements/1950.txt",
+      "generated_count": 6,
+      "test_count": 7,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1939": {
+      "title": "鸡兔同笼－分支[中]",
+      "cid": 5251,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1574263,
+        1574199
+      ],
+      "statement": "statements/1939.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1182": {
+      "title": "C语言考试练习题_打印数字图形",
+      "cid": 5251,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1579220,
+        1574266,
+        1574248
+      ],
+      "statement": "statements/1182.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1062": {
+      "title": "蟠桃记",
+      "cid": 5268,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580193
+      ],
+      "statement": "statements/1062.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1095": {
+      "title": "C语言考试练习题_保留字母",
+      "cid": 5268,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580196,
+        1579242
+      ],
+      "statement": "statements/1095.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1897": {
+      "title": "二进制数判断（数据类型）",
+      "cid": 5268,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580220
+      ],
+      "statement": "statements/1897.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1918": {
+      "title": "数字加密（数据类型）[易]",
+      "cid": 5268,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580266
+      ],
+      "statement": "statements/1918.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1922": {
+      "title": "四位数的每位数字之和-数据类型和表达式[中]",
+      "cid": 5268,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580281
+      ],
+      "statement": "statements/1922.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "2307": {
+      "title": "打印杨辉三角",
+      "cid": 5268,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580286,
+        1579253
+      ],
+      "statement": "statements/2307.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1180": {
+      "title": "C语言考试练习题_时间间隔",
+      "cid": 5268,
+      "pid": 6,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1583368,
+        1580413
+      ],
+      "statement": "statements/1180.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1067": {
+      "title": "成绩评估",
+      "cid": 5269,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580423,
+        1579254
+      ],
+      "statement": "statements/1067.txt",
+      "generated_count": 2,
+      "test_count": 3,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1961": {
+      "title": "两位整数立方的尾数（基本输入输出）[易]",
+      "cid": 5269,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580435
+      ],
+      "statement": "statements/1961.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1898": {
+      "title": "整数逆序（循环结构）",
+      "cid": 5269,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580447,
+        1579255
+      ],
+      "statement": "statements/1898.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1901": {
+      "title": "求分数之和（循环结构）",
+      "cid": 5269,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580457,
+        1579262
+      ],
+      "statement": "statements/1901.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1925": {
+      "title": "统计字符个数（分支）[易]",
+      "cid": 5269,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580466,
+        1579264
+      ],
+      "statement": "statements/1925.txt",
+      "generated_count": 5,
+      "test_count": 6,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1977": {
+      "title": "球落地反弹-循环结构[中]",
+      "cid": 5269,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580473,
+        1579274
+      ],
+      "statement": "statements/1977.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "2505": {
+      "title": "数据归一化",
+      "cid": 5269,
+      "pid": 6,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580567
+      ],
+      "statement": "statements/2505.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1003": {
+      "title": "1、2、3、4、5...",
+      "cid": 5270,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580581,
+        1569686
+      ],
+      "statement": "statements/1003.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1066": {
+      "title": "亲和数",
+      "cid": 5270,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580587,
+        1579176
+      ],
+      "statement": "statements/1066.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1075": {
+      "title": "两数组最短距离",
+      "cid": 5270,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580673
+      ],
+      "statement": "statements/1075.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1184": {
+      "title": "C语言考试练习题_最小公倍数和最大公约数",
+      "cid": 5270,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580680,
+        1579213
+      ],
+      "statement": "statements/1184.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1508": {
+      "title": "C语言程序设计教程（第三版）课后习题9.6",
+      "cid": 5270,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580700
+      ],
+      "statement": "statements/1508.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1913": {
+      "title": "计算旅途时间（数据类型）[易]",
+      "cid": 5270,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580704,
+        1579177
+      ],
+      "statement": "statements/1913.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1179": {
+      "title": "C语言考试练习题_删除指定字符",
+      "cid": 5271,
+      "pid": 0,
+      "time_limit": 1.0,
+      "memory_limit": 64,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580735
+      ],
+      "statement": "statements/1179.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1881": {
+      "title": "10米跳水计分系统（循环+分支）[易]",
+      "cid": 5271,
+      "pid": 1,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1580736,
+        1579179
+      ],
+      "statement": "statements/1881.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1940": {
+      "title": "校门外的树－循环[中]",
+      "cid": 5271,
+      "pid": 2,
+      "time_limit": 1.0,
+      "memory_limit": 32,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1582802
+      ],
+      "statement": "statements/1940.txt",
+      "generated_count": 3,
+      "test_count": 4,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1941": {
+      "title": "装箱问题－分支[中]",
+      "cid": 5271,
+      "pid": 3,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1582810,
+        1579509
+      ],
+      "statement": "statements/1941.txt",
+      "generated_count": 8,
+      "test_count": 9,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1972": {
+      "title": "字符过滤与进制转换（数组）[易]",
+      "cid": 5271,
+      "pid": 4,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1583202
+      ],
+      "statement": "statements/1972.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    },
+    "1996": {
+      "title": "亲密数（综合）[中]",
+      "cid": 5271,
+      "pid": 5,
+      "time_limit": 1.0,
+      "memory_limit": 128,
+      "special_judge": false,
+      "sample_count": 1,
+      "reference_sids": [
+        1583358
+      ],
+      "statement": "statements/1996.txt",
+      "generated_count": 4,
+      "test_count": 5,
+      "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+    }
+  },
+  "seeded_at": "2026-10-18 13:02:21"
+}

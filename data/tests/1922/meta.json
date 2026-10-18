@@ -1,0 +1,14 @@
+{
+  "id": 1922,
+  "title": "四位数的每位数字之和-数据类型和表达式[中]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580281
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

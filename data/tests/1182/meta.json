@@ -1,0 +1,16 @@
+{
+  "id": 1182,
+  "title": "C语言考试练习题_打印数字图形",
+  "time_limit": 1.0,
+  "memory_limit": 64,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1579220,
+    1574266,
+    1574248
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

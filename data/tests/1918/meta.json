@@ -1,0 +1,14 @@
+{
+  "id": 1918,
+  "title": "数字加密（数据类型）[易]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580266
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

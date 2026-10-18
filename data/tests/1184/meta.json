@@ -1,0 +1,15 @@
+{
+  "id": 1184,
+  "title": "C语言考试练习题_最小公倍数和最大公约数",
+  "time_limit": 1.0,
+  "memory_limit": 64,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580680,
+    1579213
+  ],
+  "generated_count": 4,
+  "test_count": 5,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1940,
+  "title": "校门外的树－循环[中]",
+  "time_limit": 1.0,
+  "memory_limit": 32,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1582802
+  ],
+  "generated_count": 3,
+  "test_count": 4,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

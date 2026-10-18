@@ -1,0 +1,15 @@
+{
+  "id": 1095,
+  "title": "C语言考试练习题_保留字母",
+  "time_limit": 1.0,
+  "memory_limit": 64,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580196,
+    1579242
+  ],
+  "generated_count": 4,
+  "test_count": 5,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

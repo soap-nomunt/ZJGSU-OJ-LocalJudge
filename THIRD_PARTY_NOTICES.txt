@@ -1,0 +1,44 @@
+C 语言本地判题器 - 第三方组件与许可说明
+==========================================
+
+本程序为课程学习工具，随包携带以下第三方组件。各组件的版权归其作者所有。
+
+1. Python 3.11
+   许可证：Python Software Foundation License
+   许可文件：licenses/python/LICENSE.txt
+   项目主页：https://www.python.org/
+
+2. Tcl/Tk 8.6
+   许可证：Tcl/Tk License（BSD 风格）
+   许可文件：licenses/tcl-tk/license.terms
+   项目主页：https://www.tcl.tk/
+
+3. PyInstaller 6.14.2
+   许可证：GNU GPL 2.0，附 PyInstaller 特殊例外
+   许可文件：licenses/pyinstaller/COPYING.txt
+   项目主页：https://pyinstaller.org/
+
+4. MinGW.org GCC 6.3.0-1
+   许可证：GNU GPL 3.0，附 GCC Runtime Library Exception
+   许可文件：licenses/mingw-gcc/COPYING、COPYING.LIB、COPYING.RUNTIME、
+             COPYING3、COPYING3.LIB
+   项目主页：https://osdn.net/projects/mingw/
+   说明：GCC 编译器本身按 GPL 分发；使用 GCC 编译出的学生程序受
+   GCC Runtime Library Exception 保护。若再分发本工具包，请保留
+   本说明和许可文件，并提供 GCC 源码获取方式（见上述项目主页）。
+
+5. MinGW 运行时、binutils、mingwrt、w32api、zlib 等
+   这些组件随 MinGW.org GCC 一起分发，包含在 toolchain\mingw32 目录中。
+   其许可见 MinGW 安装目录下的文档和上述 GCC 许可文件。
+   项目主页：https://osdn.net/projects/mingw/
+
+6. 题库题面与样例
+   来源：ZJGSU Online Judge（http://10.21.11.101/JudgeOnline/）
+   题面和样例版权归原出题人/学校所有，仅供课程学习使用。
+   请勿公开传播、出售或用于商业用途。
+
+7. 额外测试数据
+   由本工具在数据准备阶段使用课程账号在 OJ 上已 AC 的代码生成，
+   不是 OJ 官方隐藏测试数据。测试数据中不包含账号、密码或个人代码。
+
+本程序不包含 OJ 账号密码，不会自动提交代码，也不会在判题时联网。

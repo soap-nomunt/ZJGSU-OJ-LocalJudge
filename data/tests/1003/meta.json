@@ -1,0 +1,15 @@
+{
+  "id": 1003,
+  "title": "1、2、3、4、5...",
+  "time_limit": 1.0,
+  "memory_limit": 64,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580581,
+    1569686
+  ],
+  "generated_count": 4,
+  "test_count": 5,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

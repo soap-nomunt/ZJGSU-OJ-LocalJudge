@@ -1,0 +1,15 @@
+{
+  "id": 1067,
+  "title": "成绩评估",
+  "time_limit": 1.0,
+  "memory_limit": 64,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1580423,
+    1579254
+  ],
+  "generated_count": 2,
+  "test_count": 3,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}
