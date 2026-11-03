@@ -1,0 +1,14 @@
+{
+  "id": 2337,
+  "title": "进制回文数",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1594410
+  ],
+  "generated_count": 7,
+  "test_count": 8,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

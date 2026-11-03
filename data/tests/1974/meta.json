@@ -1,0 +1,15 @@
+{
+  "id": 1974,
+  "title": "勾股数-循环分支小综合[中]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1594001,
+    1579975
+  ],
+  "generated_count": 5,
+  "test_count": 6,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

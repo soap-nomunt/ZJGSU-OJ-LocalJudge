@@ -1,0 +1,14 @@
+{
+  "id": 2012,
+  "title": "密码安全等级判断（数组 or 指针 or 函数）[中]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1615282
+  ],
+  "generated_count": 6,
+  "test_count": 7,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

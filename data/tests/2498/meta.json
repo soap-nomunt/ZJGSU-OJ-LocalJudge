@@ -1,0 +1,12 @@
+{
+  "id": 2498,
+  "title": "守形数",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [],
+  "generated_count": 9,
+  "test_count": 10,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

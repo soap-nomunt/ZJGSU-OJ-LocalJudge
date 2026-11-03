@@ -1,0 +1,14 @@
+{
+  "id": 2545,
+  "title": "7进制小数的有效位",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [
+    1622068
+  ],
+  "generated_count": 10,
+  "test_count": 11,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

@@ -66,7 +66,12 @@ def discover_banks() -> list[Bank]:
         if not ids:
             continue
         banks.append(Bank(path.stem, path, ids))
-    banks.sort(key=lambda bank: (0 if "月考" in bank.name else 1, bank.name))
+    banks.sort(
+        key=lambda bank: (
+            0 if "月考" in bank.name else 1 if "期中" in bank.name else 2,
+            bank.name,
+        )
+    )
     return banks
 
 

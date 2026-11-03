@@ -1,0 +1,12 @@
+{
+  "id": 2009,
+  "title": "数字游戏（基本输入输出 or 数组）[难]",
+  "time_limit": 1.0,
+  "memory_limit": 128,
+  "special_judge": false,
+  "sample_count": 1,
+  "reference_sids": [],
+  "generated_count": 8,
+  "test_count": 9,
+  "seed_compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
+}

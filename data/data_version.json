@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18 14:58:47",
-  "problems": 53,
-  "samples": 53,
-  "extra_tests": 215,
-  "tests": 268,
+  "generated_at": "2026-11-03 23:55:29",
+  "problems": 103,
+  "samples": 103,
+  "extra_tests": 522,
+  "tests": 625,
   "compiler": "gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0"
 }

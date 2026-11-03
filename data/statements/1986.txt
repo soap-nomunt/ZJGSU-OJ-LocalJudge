@@ -1,0 +1,23 @@
+1986: 最长公共英文单词（综合）[难]
+时间限制: 1 Sec    内存限制: 128 MB
+来源: ZJGSU OJ
+OJ 页面: http://10.21.11.101/JudgeOnline/problem.php?cid=5322&pid=1
+
+【题目描述】
+输入两个字符行，从中找出在两个字符行中都出现的最长的英文单词。约定英文单词全由英文字母组成，其他字符均视作单词之间的分隔符。
+
+【输入】
+有多组数据，每组输入两个字符行。
+
+【输出】
+输出最长公共英文单词。若有多个，则输出第一个；若不存在，则输出“No common word!”
+
+【样例输入】
+Hi, Steve Jobs. How are you?
+Fine. There are lots of original ideas about new iphone in my mind.
+
+【样例输出】
+are
+
+【提示】
+输入字符串用函数gets()。
