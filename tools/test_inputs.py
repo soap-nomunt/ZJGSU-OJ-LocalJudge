@@ -134,7 +134,7 @@ EXTRA_INPUTS = {
         "qwe\njij\n3\n",
         "A\nxyz\n0\n",
         "test\nhello\n2\n",
-        "ab\ncd\n4\n",
+        "ab\ncd\n2\n",
     ],
     1828: [
         "1\n0\n",
